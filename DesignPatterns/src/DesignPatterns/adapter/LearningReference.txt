@@ -1,0 +1,27 @@
+
+ADAPTER PATTERN
+===============
+
+Let's suppose, your teacher had given some assignment.
+For that you need a pen, but unfortunately you don't have it.
+So, you take it from one of yours friend and he gave a Pilot Pen without ink.
+
+To use this pen, you've used a refill(as AdapterForUsingPen class) and then finished your assignment.
+
+To summarize:
+
+- [AssignmentWork class] =>  for writing an assignment
+- [AdapterForUsingPen class] => to refill the PilotPen
+- [PenInterface interface] => showing specs of pen
+
+- helperPackage
+  A friend with PilotPen class
+
+
+
+
+
+
+
+
+
